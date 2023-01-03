@@ -1,0 +1,10 @@
+h1{color: blue;}
+div{
+    border: 5px solid rgb(113, 230, 238);
+    border-radius: 6px; background-color: rgb(171, 245, 245);
+}
+    
+h2{color: rgb(107, 173, 235); font-family: 'Lucida Sans';}
+p{
+    font-family: 'Trebuchet MS';
+}

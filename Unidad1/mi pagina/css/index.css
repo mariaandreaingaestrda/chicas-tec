@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(192, 241, 241);
+}
+.title{
+    color: orange;
+}
+.centro{
+    background-color: orange; color: black;
+}
+.subtitulo{
+    background-color: rgb(236, 219, 160); color: rgb(226, 158, 31);
+}
+h2{
+    background-color: rgb(194, 175, 135); color: black;
+}
+thead{
+    background-color: rgb(233, 169, 86);
+}
+tbody{
+    background-color: rgb(221, 219, 94);
+}
+h3{
+    background-color: rgb(233, 185, 140);
+}
+h4{
+    background-color: rgb(194, 175, 135);
+}
+mark{
+    background-color: gold;
+}
+span{
+    background-color: rgb(230, 219, 68); color: brown;
+}
+.img1{
+   width: 500px;
+}
+.img2{
+    width: 200px;
+}
+.img3{ 
+    width: 200px; float: right; 
+}
+.gif1{
+    width: 300px; float: right;
+}
+.img3{
+    width: 300px; 
+} 
+.img4{
+    width: 500px;
+}
+video{
+    width: 320px; height: 240px;
+}
+iframe{
+    width:560px; height:315px;
+}
+.caja1{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: rgb(228, 230, 163);
+}
+.caja2{
+    border: 1px solid black;
+    background-color: rgb(157, 157, 212);
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    margin-left: 80px;
+}

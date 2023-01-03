@@ -1,0 +1,11 @@
+.title{ 
+    background-color: rgb(71, 221, 171);color: rgb(205, 248, 248);
+    font-size: 50px;
+    font-family: initial;
+}
+.sub{
+background-color: rgb(40, 199, 199);color: rgb(195, 250, 250);
+font-size: 25px;
+font-family: initial;
+}
+.tex{color: cornflowerblue;}
